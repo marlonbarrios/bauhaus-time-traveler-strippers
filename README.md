@@ -2,7 +2,10 @@
 # the bauhaus time travelers are strippers from the future
 
 
-![Bauhaus Time Traveler Performance](https://example.com/path-to-image.jpg "Digital Art Installation")
+
+https://github.com/marlonbarrios/bauhaus-time-traveler-strippers/assets/90220317/a195d18a-bbda-4a87-87d9-87e75a1b0c3f
+
+
 
 ## About the Project
 
@@ -36,7 +39,8 @@ Ensure you have a modern web browser installed to experience the installation.
 
 Simply visit the provided URL to begin your journey as a time traveler:
 ```plaintext
-https://example.com/live-application
+
+[LIVE APP](https://bauhaus-timetraveler-stripper.vercel.app/)
 
 
 ## MIT License
